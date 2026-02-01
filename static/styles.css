@@ -1,0 +1,96 @@
+:root {
+  --bg: #0b0f19;
+  --card: #121a2a;
+  --text: #eaf0ff;
+  --muted: #b7c3e0;
+  --good: #2ee59d;
+  --bad: #ff5a7a;
+  --btn: #3b82f6;
+  --btn2: #1f2a44;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: radial-gradient(1000px 600px at 20% -20%, #1b2a5a 0%, transparent 60%),
+              radial-gradient(900px 700px at 100% 0%, #2a1649 0%, transparent 55%),
+              var(--bg);
+  color: var(--text);
+}
+
+.wrap {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 16px;
+  min-height: 100vh;
+  display: grid;
+  gap: 14px;
+  align-content: start;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h1 { font-size: 20px; margin: 0; letter-spacing: .2px; }
+
+.card {
+  background: rgba(18,26,42,.92);
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 18px;
+  padding: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.25);
+}
+
+.meta { display: grid; gap: 6px; margin-bottom: 10px; }
+.step { color: var(--muted); font-size: 13px; }
+.title { font-size: 18px; font-weight: 650; }
+
+.prompt { font-size: 16px; line-height: 1.45; margin: 12px 0; }
+
+.media { margin: 10px 0 14px; }
+.media img, .media video {
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,.08);
+}
+.media audio { width: 100%; }
+
+.hint summary { color: var(--muted); cursor: pointer; }
+.hint div { margin-top: 8px; color: var(--text); }
+
+.form { display: flex; gap: 10px; margin-top: 14px; }
+.input {
+  flex: 1;
+  padding: 12px 12px;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(0,0,0,.18);
+  color: var(--text);
+  font-size: 16px;
+}
+.btn {
+  padding: 12px 14px;
+  border-radius: 14px;
+  border: 0;
+  background: var(--btn);
+  color: white;
+  font-weight: 650;
+  font-size: 15px;
+}
+
+.ghost {
+  padding: 10px 12px;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(0,0,0,.18);
+  color: var(--text);
+}
+
+.msg { margin-top: 12px; min-height: 22px; color: var(--muted); }
+.msg.good { color: var(--good); }
+.msg.bad { color: var(--bad); }
+
+.foot { color: rgba(234,240,255,.6); text-align: center; padding: 6px 0 14px; }

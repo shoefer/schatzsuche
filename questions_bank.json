@@ -1,0 +1,296 @@
+[
+  {
+    "title": "Psst...",
+    "prompt": "Ich bin Gisela, das Hausgespenst. Willkommen bei meiner Schatzsuche! <br/><br/>Tippt \"Los\" ein, wenn Ihr bereit seid.",
+    "answer": "los",
+    "media": "/static/media/gisela-willkommen.mp4",
+    "reaction_correct": "Super, es kann losgehen!",
+    "reaction_wrong": "Das stimmt nicht ganz. Habt Ihr \"Los\" als Antwort eingetippt?",
+    "hint": "Schreibt einfach \"Los\" in das Feld und klickt auf \"Prüfen\". Dann kann es losgehen"
+  },
+
+  {
+    "title": "Eine lustige Antwort",
+    "prompt": "Welches Meme hat dieser Junge populär gemacht?",
+    "answer": "67",
+    "media": "/static/media/1-mason.jpg",
+    "reaction_correct": "Haha... ja, genau das meinte ich. siihihihix seehehehven",
+    "reaction_wrong": "Hm... das stimmt nicht ganz.",
+    "hint": "Es sind zwei Zahlen, die man einfach hintereinander sagt."
+  },
+
+    {
+    "title": "Rechenzauber",
+    "prompt": "Ich liebe Rechenzauber!<br/><br/>Kannst Du eine Rechenaufgabe aus 6 und 7 machen? <br/>(Wir suchen das Ergebnis einer bestimmten Rechenaufgabe.)",
+    "answer": "42",
+    "reaction_correct": "Jawohl!",
+    "reaction_wrong": "Falsch. Was für Aufgaben kann man aus 6 und 7 machen?",
+    "hint": "Habt ihr schon alle Rechenzeichen durch probiert? Zur Erinnerung: Plus, Minus, Mal, Geteilt.",
+    "media": null
+  },
+
+  {
+    "title": "Was hat das mit dem Haus zu tun?",
+    "prompt": "Aber jetzt wird es spannend...<br/><br/>Was hat \"6 7\" eigentlich mit dem Haus zu tun?<br/><br/>Die Antwort ist <u><b>nur ein Wort</b></u>.",
+    "answer": [
+      "Hausnummer",
+      "Hausnr",
+      "Nummer"
+    ],
+    "reaction_correct": "Ok, ok, ihr habt es richtig gelöst.",
+    "reaction_wrong": "Noch nicht ganz. Denkt daran: Wie findet der Postbote das Haus?",
+    "hint": "Es geht darum, was die 42 <b>für das Haus</b> ist.",
+    "media": null
+  },
+
+  {
+    "title": "Eine berühmte Frage",
+    "prompt": "Diese Zahl ist nicht irgendeine Zahl.<br/><br/>Auf welche berühmte Frage ist sie die Antwort? (Tipp: Name eines Buches oder Autors gelten auch)",
+    "answer": [
+      "antwort auf alles",
+      "antwort auf das leben das universum und den ganzen rest",
+      "answer to life the universe and everything",
+      "per anhalter durch die galaxis",
+      "anhalter",
+      "galaxis",
+      "hitchhiker",
+      "hitchhikers guide",
+      "hitchhiker's guide",
+      "hitchhikers guide to the galaxy",
+      "douglas adams"
+    ],
+    "reaction_correct": "Ganz genau. Manche Zahlen sind einfach magisch.",
+    "reaction_wrong": "Das ist eine schwere Frage. Es geht um ein berühmtes Buch. Frag ruhig eure Eltern um Hilfe.",
+    "hint": "Es geht um ein berühmtes Buch (oder Film) – und um die <b>Antwort auf alles</b>.",
+    "media": null
+  },
+
+  {
+    "title": "Namen, Namen, Namen",
+    "prompt": "Dieses Haus hat auch einen Namen. Welchen?",
+    "answer": "Pihapperhof",
+    "reaction_correct": "Richtig! Ich mag diesen Namen.",
+    "reaction_wrong": "Hmm, das stimmt nicht ganz. Hast Du es korrekt geschrieben?",
+    "hint": "Schaut Euch mal um das Haus herum um, oder schaut mal in einem der dicken Ordner in den Wohnungen.",
+    "media": null
+  },
+
+  {
+    "title": "Hoch hinaus!",
+    "prompt": "Nicht alles findet man im Kopf – manches findet man nur, wenn man <u><b>hoch hinaus</b></u> geht.<br/><br/>Wir brauchen also ein paar Kletterprofis. Schafft Ihr es, <u>zweimal</u> hochzuklettern und somit das Rätsel zu lösen?",
+    "answer": [
+      "3939",
+      "9393"
+    ],
+    "reaction_correct": "Wow! Du bist wirklich zweimal geklettert. Respekt!",
+    "reaction_wrong": "Das sieht noch nicht nach „zweimal hoch und runter“ aus…",
+    "hint": "Wart Ihr mal beim Klettergerüst? Schau mal ob Ihr dort Zahlen findet... aber ganz wichtig: Ihr müsst <u>zweimal</u> hochklettern!",
+    "media": null
+  },
+
+  {
+    "title": "Klingeling!",
+    "prompt": "Hör gut zu…<br/><br/>Wo könnte man dieses Geräusch hier ganz oft hören?<br/><br/>Tipp: Wir bleiben draußen, aber auf dem Gelände vom Haus. Wenn Ihr den Ort gefunden habt, sucht dort nach einer Zahl.",
+    "answer": "45",
+    "reaction_correct": "Klingeling! Genau dort. Jetzt such dort nach einer Zahl.",
+    "reaction_wrong": "Hm... nicht ganz. Wichtig, wir suchen nach einer Zahl an einem bestimmten Ort.",
+    "hint": "Habt Ihr Euch mal auf dem Parkplatz umgesehen? Dort gibt es einen Schuppen -- schaut Euch mal nach Warnungen um...",
+    "media": "/static/media/klingeling.mp4"
+  },
+
+  {
+    "title": "Der spanische Löwe",
+    "prompt": "Weg von Fahrrädern zu... Löwen! Wisst Ihr was Löwe auf spanisch heißt? Das solltet ihr wissen, um diesen nunja \"Löwen\" mit ordentlich PS zu finden.<br/><br/>Die Antwort ist eine vierstellige Zahl.",
+    "answer": "1744",
+    "reaction_correct": "Ja genau, Leon, der Löwe!",
+    "reaction_wrong": "Nein. Dieser Löwe ist einem Fahrrad tatsächlich ähnlicher als dem Tier.",
+    "hint": "Schaut Euch mal auf dem Parkplatz genau um. Der Löwe hat tatsächlich nicht 4 Beine sondern 4 Räder...",
+    "media": null
+  },
+
+  {
+    "title": "Genau hinsehen",
+    "prompt": "Ich mag Suchspiele!<br/><br/>Findet diesen Gegenstand aus dem Bild.<br/><br/>Wenn ihr ihn habt, sucht dort nach einer <b>Zahl</b>.",
+    "answer": "64",
+    "reaction_correct": "Ha! Ihr habt ein gutes Auge. Diese Gießkanne steht am Hauseingang.",
+    "reaction_wrong": "Noch nicht. Das ist wohl ein anderer Gegenstand.",
+    "hint": "Der gesuchte Gegenstand ist übrigens eine Gießkanne. Wo könnten die stehen?",
+    "media": "/static/media/find-1.jpg"
+  },
+
+  {
+    "title": "Wo schläft der Winter?",
+    "prompt": "Viele Bretter in vielen Farben schlafen an diesem Ort.<br/><br/>Wie heißt dieser Ort?",
+    "answer": "skikeller",
+    "reaction_correct": "Brrr… ja! Hier wohnt der Winter.",
+    "reaction_wrong": "Nicht ganz. Es ist ein Ort im Haus, in dem wir 1 bis 2 mal am Tag was rein- und rausholen...",
+    "hint": "Na, wofür sind wir alle hierher nach Österreich gefallen? Da lagern wir, was wir dazu brauchen...",
+    "media": null
+  },
+
+  {
+    "title": "Das richtige Skipaar",
+    "prompt": "Im Skikeller sind viele Skier.<br/><br/>Suche das Skipaar mit <b>[FARBE/MARKE HIER EINFÜGEN]</b>.<br/><br/>Dort ist eine Zahl versteckt. Tippe sie ein.",
+    "answer": "69",
+    "reaction_correct": "Du hast das richtige Paar gefunden. Sehr gut!",
+    "reaction_wrong": "Das ist ein anderes Paar. Schau nochmal nach den Farben/der Marke.",
+    "hint": "Achte auf die genaue Farbe (und ob beide Skier zusammenpassen).",
+    "media": null
+  },
+
+  {
+    "title": "Schuhe für den Schnee",
+    "prompt": "Jetzt wird's noch winterlicher.<br/><br/>Suche ein Paar Schuhe, das man <b>nicht</b> zum Spazierengehen trägt.<br/><br/>Bei diesem Paar findest du eine Zahl. Tippe sie ein.",
+    "answer": "92",
+    "reaction_correct": "Genau! Diese Schuhe sind für den Schnee gemacht.",
+    "reaction_wrong": "Sind das nicht normale Schuhe? Ich meine etwas Spezielles...",
+    "hint": "Such nach Skischuhen oder sehr festen Schuhen, die man mit Skiern benutzt.",
+    "media": null
+  },
+  {
+    "title": "Warm werden",
+    "prompt": "Puh! Nach so viel Winter-Zauber brauchen wir etwas Warmes.<br/><br/>Hört mal genau hin, wo könnte das sein?<br/><br/>Dort findet ihr einen Zettel... keine Angst, ihr müsst nichts öffnen und auch nicht krabbeln.",
+    "answer": "71",
+    "reaction_correct": "Ahh... da fühle ich mich wohl. Gut gemacht!",
+    "reaction_wrong": "Das ist nicht die richtige Zahl. Unten braucht ihr nicht gucken...",
+    "hint": "Wart ihr mal in einer Gemeinschaftsküche? Lasst Euch dort nicht blenden...",
+    "media": "/static/media/kuchengerausche.mp4"
+  },
+  {
+    "title": "Das Geheimnis der Schublade",
+    "prompt": "Ich habe früher gern Dinge versteckt…<br/><br/>Sucht in der Nähe des letzten Ortes nach einem Zettel mit einer Zahl, der <b>in</b> oder <b>an</b> etwas steckt, das man öffnen kann.",
+    "answer": "94",
+    "reaction_correct": "Hehehe... gefunden!",
+    "reaction_wrong": "Noch nicht. Öffnen hilft manchmal.",
+    "hint": "Schaut mal in den Schubladen in der Küche.",
+    "media": null
+  },
+  {
+    "title": "Geisterlogik",
+    "prompt": "Kleines Rätsel, ganz ohne Suchen:<br/><br/>Was ist schwerer: <b>1 Kilo Federn</b> oder <b>1 Kilo Steine</b>?<br/><br/>(Wir suchen nur ein Wort: „gleich“ oder „beides“ ist ok.)",
+    "answer": [
+      "gleich",
+      "beides",
+      "beide",
+      "gleichschwer",
+      "gleich schwer"
+    ],
+    "reaction_correct": "Genau! Ich mag schlaue Köpfe.",
+    "reaction_wrong": "Denk an das Wort <b>Kilo</b>… es ist bei beiden gleich.",
+    "hint": "Beide sind <b>1 Kilo</b> – also gleich schwer.",
+    "media": null
+  },
+  {
+    "title": "Panoramablick",
+    "prompt": "Genießt doch mal jetzt den Panoramablick auf die Berge... von einem Ort wo ihr draußen seid aber ohne das Haus durch die Haustür zu verlassen.<br/><br/>Dort findet ihr wieder eine Zahl.",
+    "answer": "34",
+    "reaction_correct": "Jaaa! Von dort kann man die Berge fast hören.",
+    "reaction_wrong": "Das ist nicht die Zahl, die ich meine. Sucht an einem Ort, der draußen am Haus ist.",
+    "hint": "Wie kommt ihr von der Küche am schnellsten nach \"draußen\"? Da gibt es doch eine Tür...",
+    "media": null
+  },
+  {
+    "title": "Zählzauber",
+    "prompt": "Mini-Aufgabe:<br/><br/>Wie viele Buchstaben hat das Wort <b>GISELA</b> (ohne Leerzeichen)?<br/><br/>Antwort ist eine Zahl.",
+    "answer": "6",
+    "reaction_correct": "Richtig! Mein Name ist kurz, aber ich bin sehr wichtig.",
+    "reaction_wrong": "Zähl die Buchstaben in meinem Namen: G-I-S-E-L-A.",
+    "hint": "Gisela hat <b>6</b> Buchstaben.",
+    "media": null
+  },
+  {
+    "title": "Augen auf!",
+    "prompt": "Ich brauche eure scharfen Augen.<br/><br/>Findet den Gegenstand, den ihr auf diesem Bild seht.Dort ist eine <b>Zahl</b> versteckt.<br/><br/>Aber AUF KEINEN FALL über den Zaun klettern!",
+    "answer": "27501",
+    "reaction_correct": "Sehr gut! Genau diesen Gegenstand meinte ich.",
+    "reaction_wrong": "Das ist nicht die Zahl, die ich suche. Hast du den richtigen Gegenstand gefunden?",
+    "hint": "Es handelt sich um ein Schild. Wo ist es?",
+    "media": "/static/media/find-2.png"
+  },
+
+  {
+    "title": "Das Spiel der schnellen Füße",
+    "prompt": "Ohhh... dieses Spiel mochte ich früher besonders gern.<br/><br/>Hier fliegen kleine Bälle hin und her, und alle rufen plötzlich ganz laut.<br/><br/>Sucht dort nach einer <b>Zahl</b>.",
+    "answer": "58",
+    "reaction_correct": "Tor! Sehr gut gefunden.",
+    "reaction_wrong": "Das ist nicht die richtige Zahl. Schau dort nach, wo man kickt – aber nicht auf dem Rasen.",
+    "hint": "Gemeint ist der <b>Kicker</b>. Schau mal <u>unter</u> dem Tisch nach.",
+    "media": null
+  },
+
+  {
+    "title": "Im Land der Träume",
+    "prompt": "Wo schlafen ein paar von Euch? Schaut da mal nach einem Zettel mit einer Zahl.",
+    "answer": "48",
+    "reaction_correct": "Awww... hier sind die Träume zu Hause.",
+    "reaction_wrong": "Das ist nicht die richtige Zahl. Schaut nochmal in einer Ecke oder bei etwas Weichem.",
+    "hint": "Schaut mal im Schlafzimmer von den Maxis + Joni + Fritzi.",
+    "media": null
+  },
+
+  {
+    "title": "Klickediklack",
+    "prompt": "Hört genau zu.<br/><br/>Wir suchen eine <b>Zahl</b>.",
+    "answer": "33",
+    "reaction_correct": "Sehr gut zugehört!",
+    "reaction_wrong": "Das ist nicht die richtige Zahl. Hört genau hin.",
+    "hint": "Hört ihr das Klopfen? Gibt es da was zu zählen?`",
+    "media": "/static/media/klopfzeichen.m4a"
+  },
+
+  {
+    "title": "Der scharfe Blick",
+    "prompt": "Ein weiteres Suchbild für euch.<br/><br/>Findet diesen Gegenstand und entdeckt die <b>Zahl</b>, die ich dort versteckt habe.",
+    "answer": "91",
+    "reaction_correct": "Perfekt! Ihr seid echte Schatzsucher.",
+    "reaction_wrong": "Diese Zahl gehört wohl zu einem anderen Ort.",
+    "hint": "Ihr seid schon mal an diesem Gegenstand vorbeigelaufen... er ist im Haus.",
+    "media": "/static/media/find-3.jpg"
+  },
+
+  {
+    "title": "Drei und drei ",
+    "prompt": "Drei Orangenscheiben und drei Gläser... und noch drei Dinge. Welche? Wir suchen den Namen des Gegenstandes",
+    "answer": [
+        "Teelicht",
+        "Teelichter",
+        "Kerze",
+        "Kerzen"
+    ],
+    "reaction_correct": "Perfekt! Ihr seid echte Schatzsucher.",
+    "reaction_wrong": "Nein, das ist es nicht.",
+    "hint": "Die Gegenstände befinden sich nicht im Haus sondern draußen.",
+    "media": null
+  },
+
+
+  {
+    "title": "Die Baumgeister",
+    "prompt": "Meine alten Freunde, die alten Baumgeister saßen gerne im Kreis... und tun es noch heute.<br/><br/>Findest Du sie?<br/><br/>Wie viele Freunde habe ich?",
+    "answer": "12",
+    "reaction_correct": "Ja… sie sind alle da. Die Baumgeister grüßen euch.",
+    "reaction_wrong": "Hm… das ist nicht die Zahl meiner Freunde.",
+    "hint": "Meine Freunde die Baumgeister sitzen gerne draußen.",
+    "media": null
+  },
+
+  {
+    "title": "Der letzte Blick",
+    "prompt": "Ein letztes Suchbild für euch.<br/><br/>Findet diesen Gegenstand und entdeckt die <b>Zahl</b>, die ich dort versteckt habe.",
+    "answer": "91",
+    "reaction_correct": "Perfekt! Ihr seid echte Schatzsucher.",
+    "reaction_wrong": "Diese Zahl gehört wohl zu einem anderen Ort.",
+    "hint": "Auch wenn es nicht so aussieht: der Gegenstand hängt; draußen.",
+    "media": "/static/media/find-3.jpg"
+  },
+
+  {
+    "title": "Herzlichen Glückwunsch!",
+    "prompt": "Ihr habt es fast geschafft! Herzlichen Glückwunsch! Tippt \"Hunger\" ein und ich sage Euch, wo sich der Schatz befindet!",
+    "answer": "hunger",
+    "media": "/static/media/gisela-bye.mp4",
+    "reaction_correct": "Guten Appetit!",
+    "reaction_wrong": "Tippt \"Hunger\" ein",
+    "hint": "Tippt \"Hunger\" ein"
+  }
+]

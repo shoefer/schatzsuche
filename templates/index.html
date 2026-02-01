@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Giselas Schatzsuche</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="top">
+      <h1>Giselas Schatzsuche</h1>
+      <button id="resetBtn" class="ghost" type="button">Reset</button>
+    </header>
+
+    <section class="card">
+      <div class="meta">
+        <div id="step" class="step">–</div>
+        <div id="title" class="title">Lade…</div>
+      </div>
+
+      <div id="media" class="media" hidden></div>
+
+      <p id="prompt" class="prompt"></p>
+
+      <details id="hintWrap" class="hint" hidden>
+        <summary>Hinweis</summary>
+        <div id="hintText"></div>
+      </details>
+
+      <form id="form" class="form">
+        <input id="answer" class="input" type="text" placeholder="Antwort eingeben..." autocomplete="off" />
+        <button class="btn" type="submit">Prüfen</button>
+      </form>
+
+      <div id="msg" class="msg" role="status" aria-live="polite"></div>
+    </section>
+
+    <footer class="foot">
+      <small>Tip: Auf dem Handy zum Homescreen hinzufügen 🙂</small>
+    </footer>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
