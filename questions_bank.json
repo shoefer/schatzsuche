@@ -130,8 +130,8 @@
 
   {
     "title": "Das richtige Skipaar",
-    "prompt": "Im Skikeller sind viele Skier.<br/><br/>Suche das Skipaar mit <b>[FARBE/MARKE HIER EINFÜGEN]</b>.<br/><br/>Dort ist eine Zahl versteckt. Tippe sie ein.",
-    "answer": "69",
+    "prompt": "Im Skikeller sind viele Skier.<br/><br/>Suche ein bestimmtes Skipaar. Es könnte auch Hurricane oder Tornado heißen... heißt aber winterlichter.<br/><br/>Dort ist eine Zahl versteckt. Tippe sie ein.",
+    "answer": "92",
     "reaction_correct": "Du hast das richtige Paar gefunden. Sehr gut!",
     "reaction_wrong": "Das ist ein anderes Paar. Schau nochmal nach den Farben/der Marke.",
     "hint": "Achte auf die genaue Farbe (und ob beide Skier zusammenpassen).",
@@ -140,8 +140,8 @@
 
   {
     "title": "Schuhe für den Schnee",
-    "prompt": "Jetzt wird's noch winterlicher.<br/><br/>Suche ein Paar Schuhe, das man <b>nicht</b> zum Spazierengehen trägt.<br/><br/>Bei diesem Paar findest du eine Zahl. Tippe sie ein.",
-    "answer": "92",
+    "prompt": "Jetzt wird's noch winterlicher.<br/><br/>Suche ein Paar Schuhe, das man <b>nicht</b> zum Spazierengehen trägt. Es ist grau und Orange... Bei diesem Paar findest du eine Zahl. Tippe sie ein.<br/><br/> Keine Angst, Ihr müsst nicht innen dran schnuppern :-)",
+    "answer": "69",
     "reaction_correct": "Genau! Diese Schuhe sind für den Schnee gemacht.",
     "reaction_wrong": "Sind das nicht normale Schuhe? Ich meine etwas Spezielles...",
     "hint": "Such nach Skischuhen oder sehr festen Schuhen, die man mit Skiern benutzt.",
@@ -277,11 +277,11 @@
   {
     "title": "Der letzte Blick",
     "prompt": "Ein letztes Suchbild für euch.<br/><br/>Findet diesen Gegenstand und entdeckt die <b>Zahl</b>, die ich dort versteckt habe.",
-    "answer": "91",
+    "answer": "98",
     "reaction_correct": "Perfekt! Ihr seid echte Schatzsucher.",
     "reaction_wrong": "Diese Zahl gehört wohl zu einem anderen Ort.",
     "hint": "Auch wenn es nicht so aussieht: der Gegenstand hängt; draußen.",
-    "media": "/static/media/find-3.jpg"
+    "media": "/static/media/find-4.jpg"
   },
 
   {
