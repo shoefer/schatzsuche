@@ -91,7 +91,7 @@
   {
     "title": "Klingeling!",
     "prompt": "Hör gut zu…<br/><br/>Wo könnte man dieses Geräusch hier ganz oft hören?<br/><br/>Tipp: Wir bleiben draußen, aber auf dem Gelände vom Haus. Wenn Ihr den Ort gefunden habt, sucht dort nach einer Zahl.",
-    "answer": "45",
+    "answer": "50",
     "reaction_correct": "Klingeling! Genau dort. Jetzt such dort nach einer Zahl.",
     "reaction_wrong": "Hm... nicht ganz. Wichtig, wir suchen nach einer Zahl an einem bestimmten Ort.",
     "hint": "Habt Ihr Euch mal auf dem Parkplatz umgesehen? Dort gibt es einen Schuppen -- schaut Euch mal nach Warnungen um...",
