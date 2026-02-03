@@ -125,7 +125,7 @@ async function loadCurrent() {
   if (data.done) {
     els.step.textContent = `Fertig 🎉`;
     els.title.textContent = `Alle Aufgaben gelöst!`;
-    els.prompt.textContent = `Super! Du hast alle ${data.total} Stationen geschafft. Der Schatz befindet sich im Ofen bei Höfers/Bolls!`;
+    els.prompt.textContent = `Super! Du hast alle ${data.total} Stationen geschafft. Der Schatz befindet sich im Renault Kangoo von den Höfers!`;
     els.form.hidden = true;
     renderMedia(null);
     els.hintWrap.hidden = true;
